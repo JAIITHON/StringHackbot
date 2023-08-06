@@ -145,14 +145,12 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "AbhiModszYT_Return"
+channel = "Abo_hadieda"
 menu = '''
 ┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
-┣ Uᴘᴅᴀᴛᴇꜱ -> @AmBotYT
+┣ Cʀᴇᴀᴛᴇʀ -> @Abu_hadieda
+┣ Uᴘᴅᴀᴛᴇꜱ -> @Abo_hadieda
 ┗━━━━━━━━━❥
-**Updates JOIN @AmBotYT**
-
 
 
 A: [معرفه قنوات/كروبات التي يملكها]
