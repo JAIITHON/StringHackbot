@@ -26,7 +26,7 @@
 ------
 # Deploy To Heroku
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbhiModszYT/StringHackbot)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Morgufbot5/StringHackbot)
 
 ## Credits
 
